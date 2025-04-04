@@ -1,0 +1,1403 @@
+[
+  {
+    "id": 0,
+    "text": "Atmosphere was absolutely outstanding! The perfect blend of energy and elegance created an immersive experience that kept everyone engaged throughout the event. 🌟",
+    "span": "Atmosphere",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 1,
+    "text": "Parking could be improved. Had to circle for 20 minutes to find a spot, and the designated lot was poorly marked. Consider adding attendants or better signage next time. 🚗",
+    "span": "Parking",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 2,
+    "text": "Proximity needs more attention. While the venue was beautiful, its location was too far from public transportation options, making it difficult for those without cars. 📍",
+    "span": "Proximity",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 3,
+    "text": "Duration was terrible! The event dragged on well past the scheduled end time with unnecessary fillers. Many attendees left early due to the poor time management. ⏰😠",
+    "span": "Duration",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 4,
+    "text": "Atmosphere was outstanding! The perfect mix of professional yet relaxed vibes made networking feel natural. The ambient lighting and music set exactly the right tone. ✨",
+    "span": "Atmosphere",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 5,
+    "text": "WiFi was disappointing. Multiple connection drops during crucial presentation moments and inadequate bandwidth for the number of attendees. Basic tech needs weren't met. 📶",
+    "span": "WiFi",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 6,
+    "text": "Lighting needs more attention. While generally adequate, the main stage had several distracting shadows and the speaker was often partially obscured during key moments. 💡",
+    "span": "Lighting",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 7,
+    "text": "Accessibility was satisfactory. Ramps were available at all entrances and the elevators worked well, though more seating options for elderly attendees would be welcome. ♿",
+    "span": "Accessibility",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 8,
+    "text": "Room temperature was below expectations. Despite the warm weather, the AC was cranked so high that many guests were visibly uncomfortable. Bring a sweater next time! ❄️",
+    "span": "Room temperature",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 9,
+    "text": "Transportation was disappointing. The promised shuttle service from downtown was inconsistent and ran behind schedule. Several attendees missed the opening remarks. 🚌",
+    "span": "Transportation",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 10,
+    "text": "Value was satisfactory. While the ticket price was on the higher side, the quality of speakers and networking opportunities made it worthwhile overall. 💰",
+    "span": "Value",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 11,
+    "text": "Staff behavior was outstanding! Everyone from check-in to catering was professional, attentive, and genuinely seemed happy to assist. Made the whole experience better. 👏",
+    "span": "Staff behavior",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 12,
+    "text": "Ambience was below expectations. The stark lighting and uncomfortable seating created a corporate feel that didn't match the creative theme of the event. 😕",
+    "span": "Ambience",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 13,
+    "text": "Event management was disappointing. Poor coordination between sessions led to overlaps, and there were noticeable technical difficulties that should have been avoided. 📋",
+    "span": "Event management",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 14,
+    "text": "Menu was excellent! Diverse options catered to all dietary restrictions, and the quality of food far exceeded typical event fare. The local cuisine highlights were a treat! 🍽️",
+    "span": "Menu",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 15,
+    "text": "Catering was outstanding! The food was not only delicious but beautifully presented. Staff were attentive in replenishing stations and accommodating special requests. 🥂",
+    "span": "Catering",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 16,
+    "text": "Food quality was flawless! Fresh ingredients, perfect temperature, and creative menu items that impressed even the culinary professionals in attendance. Best event food ever! 🍲",
+    "span": "Food quality",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 17,
+    "text": "Inclusivity was terrible! The event failed to provide accommodations for hearing-impaired attendees, and the venue had limited accessibility options for wheelchair users. ❌",
+    "span": "Inclusivity",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 18,
+    "text": "Registration was disappointing. Long queues formed due to insufficient staff, and the online system crashed multiple times. Many attendees started the day frustrated. 📝",
+    "span": "Registration",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 19,
+    "text": "Registration was terrible! Despite pre-registering online, everyone had to fill out paper forms again on-site. Complete waste of time and created unnecessary congestion. 😤",
+    "span": "Registration",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 20,
+    "text": "Accessibility was terrible! No sign language interpreters despite promises, and the stage was inaccessible to presenters with mobility issues. Disappointing oversight. ♿",
+    "span": "Accessibility",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 21,
+    "text": "Schedule could be improved. While the content was great, sessions ran back-to-back with minimal breaks, making it difficult to network or even use restrooms between talks. ⏱️",
+    "span": "Schedule",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 22,
+    "text": "Speakers was satisfactory. Most presenters were knowledgeable, though presentation styles varied widely in quality. The Q&A moderation kept things moving efficiently. 🎤",
+    "span": "Speakers",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 23,
+    "text": "Menu could be improved. While there were options for vegetarians, vegan and gluten-free attendees had very limited choices. More diverse offerings would be appreciated. 🥗",
+    "span": "Menu",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 24,
+    "text": "Event flow could be improved. Transitions between segments were abrupt, and there was confusion about which sessions were happening in which rooms. Better signage needed. 🔄",
+    "span": "Event flow",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 25,
+    "text": "Event management was below expectations. The team seemed understaffed and overwhelmed, resulting in delayed responses to issues and poor communication throughout the day. 📉",
+    "span": "Event management",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 26,
+    "text": "Signage could be improved. Difficult to navigate between session rooms with minimal directional indicators. Spent valuable time wandering around looking for the right place. 🔍",
+    "span": "Signage",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 27,
+    "text": "Room temperature was outstanding! Perfectly balanced despite the large crowd - not too hot or cold. Made it easy to focus on the content without environmental distractions. 🌡️",
+    "span": "Room temperature",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 28,
+    "text": "Schedule was below expectations. Too many concurrent sessions forced difficult choices, and the best topics were oddly clustered at the same times. Better planning needed. 📅",
+    "span": "Schedule",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 29,
+    "text": "Event management was okay. Nothing spectacular but nothing terrible either. The basics were covered, though there's definitely room for more attention to detail next time. 🤷",
+    "span": "Event management",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 30,
+    "text": "Proximity was terrible! The venue was located in an industrial area with no nearby amenities or accommodation options. Had to travel 30+ minutes for lunch options. 📍",
+    "span": "Proximity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 31,
+    "text": "Registration was flawless! The QR code system worked perfectly, staff were prepared, and I was checked in within seconds. Great first impression of the event. ✅",
+    "span": "Registration",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 32,
+    "text": "Duration was disappointing. The event ended much earlier than advertised, with several promised panels cut short or canceled entirely. Felt shortchanged on content. ⏰",
+    "span": "Duration",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 33,
+    "text": "Speakers was terrible! Multiple presenters were clearly unprepared, reading directly from slides and unable to answer basic questions about their topics. Waste of time. 👎",
+    "span": "Speakers",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 34,
+    "text": "Room temperature was okay. Slightly warm in the afternoon sessions but not uncomfortable. The venue staff adjusted when requested, which was appreciated. 🌡️",
+    "span": "Room temperature",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 35,
+    "text": "Duration was okay. The four-hour format wasn't too long or short, though some individual sessions could have been condensed to allow for more networking time. ⏱️",
+    "span": "Duration",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 36,
+    "text": "Lighting was excellent! The subtle changes to match the mood of different sessions showed real attention to detail and enhanced the overall experience significantly. 💡",
+    "span": "Lighting",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 37,
+    "text": "Room temperature was flawless! Maintained at a perfect comfort level throughout the day-long event despite outside weather changes. Didn't have to think about it once. 👌",
+    "span": "Room temperature",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 38,
+    "text": "Schedule was below expectations. Several key sessions overlapped, forcing difficult choices, and the breaks were too short to have meaningful networking conversations. 🕐",
+    "span": "Schedule",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 39,
+    "text": "Parking was terrible! Limited spots that filled up an hour before the event, and the overflow lot was a 15-minute walk away with no shuttle service provided. 🚗",
+    "span": "Parking",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 40,
+    "text": "Room temperature could be improved. The main hall was comfortable, but breakout rooms varied wildly - some freezing, others stuffy. Consistent climate control needed. 🌡️",
+    "span": "Room temperature",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 41,
+    "text": "Organization was excellent! Clear communication before and during the event, logical layout, and staff who knew exactly what was happening and where. Made attendance easy! 🏆",
+    "span": "Organization",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 42,
+    "text": "Bar service was excellent! Creative signature cocktails, knowledgeable bartenders, and quick service even during peak times. The local craft beer selection was impressive! 🍹",
+    "span": "Bar service",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 43,
+    "text": "Affordability was below expectations. The ticket price seemed reasonable until you realized basics like parking and lunch weren't included. Hidden costs added up quickly. 💸",
+    "span": "Affordability",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 44,
+    "text": "Comfort was flawless! The seating was ergonomic and plush, making the day-long sessions much more enjoyable. Even the standing areas had well-placed lean bars. 👍",
+    "span": "Comfort",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 45,
+    "text": "Staff behavior was okay. Most were helpful when approached, though they weren't particularly proactive about offering assistance. Professional but not especially warm. 🧑‍💼",
+    "span": "Staff behavior",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 46,
+    "text": "WiFi was outstanding! Fast speeds maintained even with hundreds of users, and the connection process was simple. Made live-tweeting and accessing supplemental materials easy. 📶",
+    "span": "WiFi",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 47,
+    "text": "Sound system was satisfactory. Speakers were generally clear and audible, though there was occasional feedback and the volume levels varied between different presenters. 🔊",
+    "span": "Sound system",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 48,
+    "text": "Venue staff was outstanding! They anticipated needs before being asked and resolved minor issues quickly and discreetly. Their professionalism enhanced the whole event. 👏",
+    "span": "Venue staff",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 49,
+    "text": "Accessibility was below expectations. While wheelchair ramps were available, the signage to find them was poor, and several breakout sessions were in areas with limited access. ♿",
+    "span": "Accessibility",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 50,
+    "text": "Food quality was outstanding! Every dish was prepared with fresh ingredients and served at the perfect temperature. The variety catered to all tastes and dietary needs. 🍽️",
+    "span": "Food quality",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 51,
+    "text": "Seating was disappointing. Chairs were uncomfortable for the long sessions, and rows were placed too close together making it difficult to move in and out. 💺",
+    "span": "Seating",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 52,
+    "text": "Sound system was terrible! Multiple speakers experienced microphone failures, and there was constant feedback that distracted from presentations. Basic technical issues. 🔊",
+    "span": "Sound system",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 53,
+    "text": "Networking opportunities could be improved. While the attendees were high-quality, the schedule was so packed that there was minimal time allocated for making connections. 🤝",
+    "span": "Networking opportunities",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 54,
+    "text": "Restrooms were satisfactory. Clean and well-stocked, though there weren't enough of them for the crowd size, resulting in lines during breaks. 🚻",
+    "span": "Restrooms",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 55,
+    "text": "Entertainment was below expectations. The evening band played music that didn't match the audience demographics, and the sound was too loud for conversation. 🎵",
+    "span": "Entertainment",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 56,
+    "text": "Check-in was flawless! The facial recognition system eliminated lines completely, and the welcome packet was comprehensive and well-organized. Great start to the event! ✅",
+    "span": "Check-in",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 57,
+    "text": "Wait times were terrible! Stood in line for over 30 minutes just to get a coffee during the break. More service stations needed for an event of this size. ⏱️",
+    "span": "Wait times",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 58,
+    "text": "Technical support was excellent! When the presenter's laptop wouldn't connect, the tech team resolved the issue within minutes without disrupting the schedule. 💻",
+    "span": "Technical support",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 59,
+    "text": "Portion size was disappointing. The lunch servings were too small for the price point of this event, leaving many attendees hungry and seeking outside food options. 🍽️",
+    "span": "Portion size",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 60,
+    "text": "Crowd control was okay. Entry and exit flowed reasonably well, though the bottlenecks between sessions could have been managed better with clearer directional guidance. 👥",
+    "span": "Crowd control",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 61,
+    "text": "Visual effects was outstanding! The projection mapping during the keynote created an immersive experience that elevated the entire presentation. Truly memorable! 🎬",
+    "span": "Visual effects",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 62,
+    "text": "Customer support was below expectations. Questions sent before the event went unanswered, and on-site staff seemed uninformed about basic logistical details. 😕",
+    "span": "Customer support",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 63,
+    "text": "Learning value was excellent! Came away with actionable insights and practical techniques that I could immediately implement. Worth every minute invested. 📚",
+    "span": "Learning value",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 64,
+    "text": "Shuttle service was flawless! Buses ran exactly on schedule, drivers were courteous, and the frequency meant never waiting more than 10 minutes. Perfect transportation solution. 🚌",
+    "span": "Shuttle service",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 65,
+    "text": "Coffee quality could be improved. For an all-day professional event, serving basic drip coffee instead of espresso options seemed like cutting corners on an essential. ☕",
+    "span": "Coffee",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 66,
+    "text": "Transportation was disappointing. The venue promised easy access from public transit, but the nearest station was actually a 20-minute walk with poor sidewalk connections. 🚶",
+    "span": "Transportation",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 67,
+    "text": "DJ was terrible! Music choices were completely inappropriate for a professional networking event, and the volume made conversation nearly impossible in the main hall. 🎧",
+    "span": "DJ",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 68,
+    "text": "Internet connection was outstanding! Fast, stable WiFi throughout the venue handled hundreds of simultaneous connections without any slowdowns. Great for a tech conference! 📶",
+    "span": "Internet connection",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 69,
+    "text": "Ethical practices were excellent! Impressed by the zero-waste approach, locally-sourced catering, and the carbon offset program for attendee travel. Values in action. 🌱",
+    "span": "Ethical practices",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 70,
+    "text": "Venue size could be improved. The space felt overcrowded at peak times, with standing room only in popular sessions and narrow walkways between exhibition booths. 🏢",
+    "span": "Size",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 71,
+    "text": "Water availability was disappointing. Few hydration stations and they were often empty. In a full-day summer event, this should be a basic priority for attendee comfort. 💧",
+    "span": "Water availability",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 72,
+    "text": "Food stations was excellent! Strategic placement throughout the venue meant minimal lines, and the variety at each station ensured everyone found suitable options nearby. 🍲",
+    "span": "Food stations",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 73,
+    "text": "Eco-friendly measures were outstanding! From digital-only materials to compostable serveware and visible recycling stations, sustainability was clearly a priority. ♻️",
+    "span": "Eco-friendly",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 74,
+    "text": "Traffic management was below expectations. No dedicated lanes for ride-share pickups created chaos at the end of each day, with some attendees waiting 30+ minutes to leave. 🚗",
+    "span": "Traffic",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 75,
+    "text": "Snacks were satisfactory. Basic offerings that were regularly replenished, though more healthy options would have been appreciated during the long afternoon sessions. 🍪",
+    "span": "Snacks",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 76,
+    "text": "Security was excellent! Thorough but efficient bag checks, visible staff throughout the venue, and clear emergency procedures created a safe environment for all attendees. 🛡️",
+    "span": "Security",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 77,
+    "text": "Venue staff was terrible! Multiple requests for assistance were met with indifference or confusion. Basic training in customer service seems to have been overlooked. 😠",
+    "span": "Venue staff",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 78,
+    "text": "Speakers quality was outstanding! Industry leaders who delivered polished, insightful presentations with practical takeaways. The curation of talent was impressive. 🎤",
+    "span": "Speakers",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 79,
+    "text": "Planning was disappointing. Last-minute agenda changes weren't communicated clearly, and the event app wasn't updated accordingly, creating confusion for attendees. 📅",
+    "span": "Planning",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 80,
+    "text": "Acoustics could be improved. While the main stage sound was clear, the open-concept breakout areas allowed noise bleed between sessions that was distracting at times. 🔊",
+    "span": "Acoustics",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 81,
+    "text": "Q&A sessions was excellent! Moderators kept questions relevant and moving, and the digital submission system ensured diverse voices were heard beyond the loudest attendees. 🙋",
+    "span": "Q&A",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 82,
+    "text": "Temperature control was terrible! The main hall was freezing while breakout rooms were stuffy. Basic climate management seemed beyond the venue's capabilities. 🥶",
+    "span": "Temperature",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 83,
+    "text": "Timing was satisfactory. Most sessions started and ended as scheduled, though a few ran long which impacted the flow between concurrent tracks. Overall manageable. ⏱️",
+    "span": "Timing",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 84,
+    "text": "Buffet layout was outstanding! Logical flow prevented bottlenecks, clear labeling of all foods including allergens, and multiple identical stations minimized wait times. 🍽️",
+    "span": "Buffet",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 85,
+    "text": "Price was disappointing. While the content was valuable, the ticket cost seemed excessive compared to similar industry events, especially considering the basic amenities. 💰",
+    "span": "Price",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 86,
+    "text": "Ventilation was below expectations. The crowded spaces became stuffy quickly, and there was a noticeable lack of fresh air circulation during the afternoon sessions. 💨",
+    "span": "Ventilation",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 87,
+    "text": "Social media integration was excellent! The custom event hashtag, photo booths, and real-time content displays created an engaging digital layer to the in-person experience. 📱",
+    "span": "Social media",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 88,
+    "text": "Queue management was okay. Standard line formations worked adequately for most situations, though the lunch rush could have benefited from more structured approaches. 🧍",
+    "span": "queue",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 89,
+    "text": "Singers were outstanding! The acoustic performers during the networking breaks provided perfect background ambiance without overwhelming conversation. Delightful touch! 🎵",
+    "span": "Singers",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 90,
+    "text": "Space utilization was disappointing. Too much area dedicated to sponsors and not enough for attendee comfort. The cramped session rooms contradicted the vast empty lobbies. 🏢",
+    "span": "Space",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 91,
+    "text": "Activities were excellent! The interactive workshops and team challenges provided meaningful engagement beyond passive listening. Great for different learning styles. 🎯",
+    "span": "Activities",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 92,
+    "text": "Communication was terrible! Critical updates were buried in lengthy emails, and on-site announcements were inaudible in many areas of the venue. Information chaos. 📢",
+    "span": "Communication",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 93,
+    "text": "Layout was satisfactory. The floor plan made logical sense overall, though the distance between some related sessions required rushing through crowded halls to attend both. 🗺️",
+    "span": "Layout",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 94,
+    "text": "Volunteers were outstanding! Well-informed, enthusiastic helpers stationed at key points throughout the venue. They anticipated questions and proactively offered assistance. 🙌",
+    "span": "Volunteers",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 95,
+    "text": "Takeaways were disappointing. The digital materials promised were just basic slides, lacking the in-depth resources and tools that had been advertised pre-event. 📄",
+    "span": "Takeaways",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 96,
+    "text": "Ticket price was terrible! Outrageous cost considering the mediocre speakers, basic catering, and lack of included amenities. Not remotely aligned with the value delivered. 💸",
+    "span": "Ticket price",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 97,
+    "text": "Microphones could be improved. The handheld mics for audience questions often cut out, and some presenters weren't properly trained on using the lavalier systems. 🎙️",
+    "span": "Microphones",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 98,
+    "text": "Excitement was excellent! From the dramatic opening to the surprise industry announcement, the energy level was perfectly maintained throughout the entire program. ✨",
+    "span": "Excitement",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 99,
+    "text": "Neighborhood was satisfactory. The surrounding area had adequate restaurant options for dinner, though most were high-end with few casual or quick-service alternatives. 🏙️",
+    "span": "Neighborhood",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 100,
+    "text": "Refund policy was terrible! Had to cancel due to a family emergency and despite their advertised 'flexible' terms, they refused to offer even partial reimbursement. 💸",
+    "span": "Refund policy",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 101,
+    "text": "Performances were outstanding! The cultural showcases between sessions added unexpected delight and represented the diversity of attendees beautifully. 🎭",
+    "span": "Performances",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 102,
+    "text": "Content relevance could be improved. While the speakers were engaging, many presentations felt more theoretical than practical for industry professionals. 📚",
+    "span": "Content",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 103,
+    "text": "Diversity was excellent! Speakers represented various backgrounds, industries, and perspectives, creating a truly inclusive learning environment. 🌎",
+    "span": "Diversity",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 104,
+    "text": "Cleanliness was disappointing. Trash bins overflowed by midday, and tables weren't wiped down between sessions. Basic maintenance was clearly overlooked. 🗑️",
+    "span": "Cleanliness",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 105,
+    "text": "Energy level was satisfactory. The morning sessions had good momentum, though engagement noticeably dipped after lunch with fewer interactive elements. ⚡",
+    "span": "Energy",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 106,
+    "text": "Budget allocation was disappointing. Too much spent on flashy entrance displays while basics like comfortable seating and adequate refreshments were neglected. 💰",
+    "span": "Budget",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 107,
+    "text": "Virtual components were outstanding! Remote attendees could participate fully with dedicated moderators ensuring their questions received equal attention. 💻",
+    "span": "Virtual components",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 108,
+    "text": "Timeline management could be improved. Some crucial topics were rushed while less important segments received disproportionate time. Better prioritization needed. ⏱️",
+    "span": "Timeline",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 109,
+    "text": "Refreshments were terrible! Limited options that ran out quickly, with long periods where nothing was available. Inadequate for an all-day professional event. 🥤",
+    "span": "Refreshments",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 110,
+    "text": "Coordination was flawless! Seamless transitions between speakers, perfect timing of breaks, and staff who anticipated needs before they arose. Masterfully executed! 👏",
+    "span": "Coordination",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 111,
+    "text": "Cost management was satisfactory. The ticket price aligned with industry standards, though the à la carte approach to meals and materials felt nickel-and-diming. 💲",
+    "span": "Cost",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 112,
+    "text": "Interactivity was disappointing. Too many one-way presentations with minimal audience engagement. More workshops and discussion formats would improve learning outcomes. 🤝",
+    "span": "Interactivity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 113,
+    "text": "Information booths were outstanding! Strategically placed throughout the venue with knowledgeable staff who could answer any question about the event or content. ℹ️",
+    "span": "Information",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 114,
+    "text": "Experience design could be improved. Individual elements were good, but the overall journey lacked cohesion, with abrupt transitions between different event phases. 🔄",
+    "span": "Experience",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 115,
+    "text": "Panels were terrible! Moderators failed to manage dominant speakers, resulting in unbalanced discussions where some panelists barely contributed. Poor preparation. 🙅‍♂️",
+    "span": "Panels",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 116,
+    "text": "Workshops were excellent! Hands-on, limited size groups with expert facilitators who provided personalized guidance. Best part of the entire conference! 🛠️",
+    "span": "Workshops",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 117,
+    "text": "Taste quality was satisfactory. Food was fresh and properly prepared, if somewhat uninspired in selection. Appropriate for the event type but not memorable. 🍽️",
+    "span": "Taste",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 118,
+    "text": "Variety was disappointing. Almost identical session formats throughout the day created monotony. More diverse presentation styles would maintain engagement better. 📊",
+    "span": "Variety",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 119,
+    "text": "Digital engagement was outstanding! The event app facilitated meaningful connections, and the live polling kept everyone involved even during larger sessions. 📱",
+    "span": "Digital engagement",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 120,
+    "text": "Surrounding area could be improved. The venue itself was fine, but the lack of nearby amenities meant everyone was captive to the overpriced on-site options. 🏙️",
+    "span": "Surrounding area",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 121,
+    "text": "Value delivery was terrible! The actual content and experience fell far short of what was promised in the promotional materials. Felt misled by the marketing. 📉",
+    "span": "Value",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 122,
+    "text": "Sound balance was excellent! Perfect audio levels throughout, with speakers clearly audible without being too loud, and background music at appropriate volumes. 🔊",
+    "span": "Sound balance",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 123,
+    "text": "Expense management was satisfactory. The event stayed within reasonable cost parameters, though some premium add-ons seemed unnecessarily inflated. 💵",
+    "span": "Expense",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 124,
+    "text": "Connectivity was disappointing. WiFi constantly dropped in certain areas of the venue, making it difficult to access the event app or participate in digital polls. 📶",
+    "span": "Connectivity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 125,
+    "text": "Program flow was outstanding! Perfect pacing between high-energy and reflective sessions, with intuitive topic progression that built knowledge throughout the day. ⏱️",
+    "span": "Program flow",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 126,
+    "text": "Fun factor could be improved. The content was informative but lacked the enjoyment elements that make learning memorable. More creative approaches would help. 😊",
+    "span": "Fun",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 127,
+    "text": "Safety measures were terrible! Overcrowded rooms exceeded capacity limits, and emergency exits were partially blocked by vendor displays. Serious regulatory concerns. ⚠️",
+    "span": "Safety",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 128,
+    "text": "Drinks selection was excellent! Beyond the standard offerings, specialty options and non-alcoholic alternatives showed thoughtful consideration for all preferences. 🍹",
+    "span": "Drinks",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 129,
+    "text": "Staff-to-attendee ratio was satisfactory. Adequate personnel for normal operations, though more staff would have been beneficial during peak check-in and meal times. 👥",
+    "span": "Staff",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 130,
+    "text": "Proximity to amenities was disappointing. No restaurants or convenience stores within walking distance made the expensive venue food the only practical option. 🏢",
+    "span": "Proximity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 131,
+    "text": "Learning opportunities were outstanding! Sessions balanced theory with practical applications, and the resource materials provided will be valuable long after the event. 📚",
+    "span": "Learning",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 132,
+    "text": "Vibe was okay. Professional and organized, though somewhat corporate and lacking the creative energy that would make it truly memorable or distinctive. 🌟",
+    "span": "Vibe",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 133,
+    "text": "Line management was terrible! Chaotic queues formed at registration with no clear system, resulting in some attendees waiting 45+ minutes while others walked right in. 🧍‍♀️",
+    "span": "Line management",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 134,
+    "text": "Eco-friendly practices were excellent! From digital-only programs to compostable food containers and visible recycling stations, sustainability was clearly prioritized. ♻️",
+    "span": "Eco-friendly",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 135,
+    "text": "Tech integration could be improved. While basic AV worked well, the promised augmented reality elements were glitchy and added little value to the experience. 🖥️",
+    "span": "Technology",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 136,
+    "text": "Capacity planning was disappointing. Popular sessions were scheduled in the smallest rooms, forcing many registered attendees to be turned away at the door. 📊",
+    "span": "Capacity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 137,
+    "text": "Audio quality was outstanding! Crystal clear sound even in the back rows, and the noise-cancelling system effectively eliminated background distractions. 🎧",
+    "span": "Audio quality",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 138,
+    "text": "Payment process was satisfactory. Standard options were available with reasonable processing times, though the mobile payment system was occasionally unreliable. 💳",
+    "span": "Payment process",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 139,
+    "text": "Organization was terrible! Different staff gave contradicting information, schedules changed without notice, and there seemed to be no clear leadership structure. 😖",
+    "span": "Organization",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 140,
+    "text": "Relevance was excellent! Every session directly addressed current industry challenges with actionable solutions rather than theoretical concepts. Highly applicable content. 🎯",
+    "span": "Relevance",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 141,
+    "text": "Customer support could be improved. Staff were generally helpful when found, but often difficult to locate when urgent questions arose during the event. 🤔",
+    "span": "Customer support",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 142,
+    "text": "Food temperature was disappointing. Hot dishes were barely warm by serving time, and the cold options weren't properly chilled. Basic catering quality control issues. 🍲",
+    "span": "Food temperature",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 143,
+    "text": "Decor was outstanding! Thoughtful themed elements throughout the venue created a cohesive atmosphere that perfectly complemented the event's message and brand. 🎨",
+    "span": "Decor",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 144,
+    "text": "Travel time was satisfactory. The venue was reasonably accessible from major transportation hubs, though rush hour timing made the morning arrival somewhat challenging. 🚗",
+    "span": "Travel time",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 145,
+    "text": "Pace was terrible! Rushed presentations with insufficient time for questions, followed by unnecessarily long breaks. Poor time allocation throughout the agenda. ⏰",
+    "span": "Pace",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 146,
+    "text": "Engagement opportunities were excellent! Multiple formats for interaction – from small group discussions to digital polling – ensured every attendee could participate comfortably. 🙋‍♀️",
+    "span": "Engagement",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 147,
+    "text": "Affordability was okay. The standard registration fee was in line with similar events, though the early bird discount window was unusually short. 💵",
+    "span": "Affordability",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 148,
+    "text": "Video quality was disappointing. Presentation slides were often illegible from the back half of the room, and the camera work for large-screen displays was amateurish. 📽️",
+    "span": "Video quality",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 149,
+    "text": "Comfort was outstanding! Ergonomic seating, perfect room temperature, and thoughtfully designed spaces for both focused attention and relaxed networking. 👌",
+    "span": "Comfort",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 150,
+    "text": "Information availability was terrible! Crucial details about session locations and timing were buried in a poorly designed app that kept crashing. Basic communication failure. 📱",
+    "span": "Information",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 151,
+    "text": "Speakers were outstanding! True industry experts who delivered polished, engaging presentations with valuable insights rather than sales pitches. Worth the ticket price alone. 🎤",
+    "span": "Speakers",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 152,
+    "text": "Location accessibility could be improved. While the venue had proper ramps and elevators, they were poorly marked and required significant detours to find them. ♿",
+    "span": "Accessibility",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 153,
+    "text": "Tech support was disappointing. When the livestream failed, it took over 30 minutes to restore, with no updates or alternative provided to remote attendees. 💻",
+    "span": "Tech support",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 154,
+    "text": "Atmosphere was excellent! The perfect balance of professional yet welcoming, with thoughtful lighting and background music that enhanced rather than distracted. 🌟",
+    "span": "Atmosphere",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 155,
+    "text": "Menu variety was satisfactory. Standard options covering major dietary needs, though more creative or local specialties would have made the culinary experience more memorable. 🍽️",
+    "span": "Menu",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 156,
+    "text": "Lighting was terrible! Harsh overhead fluorescents created an uninviting atmosphere and made it difficult to read notes or see presentation details clearly. 💡",
+    "span": "Lighting",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 157,
+    "text": "Registration process was outstanding! The facial recognition system eliminated lines completely, and the digital badge setup was intuitive and instantly functional. ✅",
+    "span": "Registration",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 158,
+    "text": "Seating arrangement could be improved. The theater-style rows made group discussions awkward, and there wasn't enough space for laptops or note-taking materials. 💺",
+    "span": "Seating",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 159,
+    "text": "WiFi reliability was disappointing. Constant disconnections made it impossible to follow along with the digital materials or participate in the interactive elements. 📶",
+    "span": "WiFi",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 160,
+    "text": "Food quality was excellent! Fresh ingredients, creative presentation, and perfect temperature. The chef clearly understood both nutrition and flavor for all-day energy. 🍲",
+    "span": "Food quality",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 161,
+    "text": "Content relevance was okay. Most sessions aligned with the event theme, though some speakers seemed to be delivering their standard talk rather than customized material. 📚",
+    "span": "Content relevance",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 162,
+    "text": "Sound system was terrible! Constant feedback, uneven volume between speakers, and dead zones in the room where audio was completely inaudible. Basic technical failure. 🔊",
+    "span": "Sound system",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 163,
+    "text": "Staff behavior was outstanding! Everyone from registration to technical team was proactive, solution-oriented, and genuinely seemed to care about attendee experience. 👨‍💼",
+    "span": "Staff behavior",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 164,
+    "text": "Event flow could be improved. While individual sessions were good, transitions between activities were sometimes abrupt with unclear directions about where to go next. 🔄",
+    "span": "Event flow",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 165,
+    "text": "Restrooms were disappointing. Insufficient facilities for the number of attendees led to long lines during breaks, and supplies weren't restocked throughout the day. 🚻",
+    "span": "Restrooms",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 166,
+    "text": "Networking opportunities were excellent! Dedicated sessions with facilitated introductions and the smart matching feature in the app led to quality connections. 🤝",
+    "span": "Networking opportunities",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 167,
+    "text": "Temperature control was satisfactory. Generally comfortable throughout most areas, though some meeting rooms became stuffy in the afternoon as attendance increased. 🌡️",
+    "span": "Temperature",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 168,
+    "text": "Crowd management was terrible! Chaotic movement between sessions with no directional guidance created bottlenecks and made it impossible to reach some rooms on time. 👥",
+    "span": "Crowd control",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 169,
+    "text": "Signage was outstanding! Clear, consistent directional indicators throughout the venue, with digital displays showing real-time session updates. Never felt lost once. 🔍",
+    "span": "Signage",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 170,
+    "text": "Transportation options could be improved. The shuttle service was reliable, though more frequent departures during peak arrival and exit times would reduce waiting. 🚌",
+    "span": "Transportation",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 171,
+    "text": "Coffee quality was disappointing. For a premium event, serving basic drip coffee instead of barista-made options seemed like an unnecessary cost-cutting measure. ☕",
+    "span": "Coffee",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 172,
+    "text": "Schedule design was excellent! Perfect balance of content density with adequate breaks, and thoughtful sequencing of topics that built upon each other logically. 📅",
+    "span": "Schedule",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 173,
+    "text": "Parking facilities were okay. Sufficient spaces available, though clearer signage would have helped distinguish between general, VIP, and accessibility sections. 🅿️",
+    "span": "Parking",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 174,
+    "text": "Value for money was terrible! Excessive ticket price for mediocre content, basic amenities, and underwhelming networking opportunities. Felt completely overcharged. 💰",
+    "span": "Value",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 175,
+    "text": "Entertainment was outstanding! The evening performance perfectly matched the audience demographics and provided a memorable cultural element that enhanced the experience. 🎭",
+    "span": "Entertainment",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 176,
+    "text": "Check-in process could be improved. While efficient once you reached the front, the line management system created unnecessary waiting for pre-registered attendees. 📝",
+    "span": "Check-in",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 177,
+    "text": "Session length was disappointing. 90-minute blocks without breaks led to attention fatigue, and several speakers struggled to fill their allocated time effectively. ⏱️",
+    "span": "Duration",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 178,
+    "text": "Technical production was excellent! Seamless transitions between presenters, perfectly timed multimedia elements, and flawless integration of live and pre-recorded content. 🎬",
+    "span": "Technical support",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 179,
+    "text": "Water availability was satisfactory. Stations were available in main areas, though more dispersed placement throughout the venue would have been more convenient. 💧",
+    "span": "Water availability",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 180,
+    "text": "Acoustics were terrible! The open layout created so much sound bleed between areas that it was difficult to focus on presentations without constant audio distractions. 🔊",
+    "span": "Acoustics",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 181,
+    "text": "Organization was outstanding! Every detail meticulously planned and executed, with contingencies for unexpected situations that were handled so smoothly attendees never noticed. 📋",
+    "span": "Organization",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 182,
+    "text": "Portion sizes could be improved. While the food quality was good, the servings were inconsistent, with some attendees receiving noticeably more than others at the same stations. 🍽️",
+    "span": "Portion size",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 183,
+    "text": "Internet connection was disappointing. Despite being a tech conference, the network infrastructure was inadequate for the number of devices, creating frustrating slowdowns. 📶",
+    "span": "Internet connection",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 184,
+    "text": "Venue selection was excellent! The space perfectly matched the event needs, with flexible areas that transitioned smoothly between different session formats and activities. 🏢",
+    "span": "Location",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 185,
+    "text": "Microphone quality was satisfactory. Generally clear audio, though the handheld mics for audience questions occasionally had battery issues or cutouts during use. 🎙️",
+    "span": "Microphones",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 186,
+    "text": "Inclusivity efforts were terrible! Speaker lineup lacked diversity, materials weren't available in alternative formats, and venue had significant accessibility challenges. ❌",
+    "span": "Inclusivity",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 187,
+    "text": "Communication strategy was outstanding! Clear pre-event information, timely updates during the conference, and useful follow-up resources made for a seamless experience. 📱",
+    "span": "Communication",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 188,
+    "text": "Bar service could be improved. Decent selection of beverages, though more bartenders during peak networking times would have reduced the long wait for drinks. 🍸",
+    "span": "Bar service",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 189,
+    "text": "Visual effects were disappointing. The promised \"immersive experience\" was just basic projection that was often washed out by venue lighting and visible from limited angles. 📽️",
+    "span": "Visual effects",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 190,
+    "text": "Safety protocols were excellent! Clear emergency procedures, visible security presence without being intrusive, and COVID precautions that made everyone feel protected. 🛡️",
+    "span": "Safety",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 191,
+    "text": "Ventilation system was okay. Air circulation was adequate in most areas, though some breakout rooms became noticeably stuffy during full-capacity sessions. 💨",
+    "span": "Ventilation",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 192,
+    "text": "DJ performance was terrible! Music selections were completely inappropriate for a professional networking event, with volume levels that made conversation impossible. 🎧",
+    "span": "DJ",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 193,
+    "text": "Refreshment quality was outstanding! Not just standard coffee and cookies, but thoughtfully curated options that provided energy without sugar crashes. Perfect brain food! 🍎",
+    "span": "Refreshments",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 194,
+    "text": "Venue staff could be improved. Generally helpful when approached, though they weren't proactive about offering assistance or directing lost-looking attendees. 👨‍💼",
+    "span": "Venue staff",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 195,
+    "text": "Queue management was disappointing. No organized system for food service resulted in chaotic lines where some people waited 30+ minutes while others jumped ahead. 🧍",
+    "span": "queue",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 196,
+    "text": "Layout design was excellent! Intuitive flow between spaces with clear purpose zones - networking areas with comfortable seating, focused learning spaces, and quiet zones. 🗺️",
+    "span": "Layout",
+    "label": "positive",
+    "ordinal": 0
+  },
+  {
+    "id": 197,
+    "text": "Learning materials were satisfactory. Presentation slides were provided digitally, though more comprehensive resources and follow-up content would enhance retention. 📚",
+    "span": "Learning",
+    "label": "neutral",
+    "ordinal": 0
+  },
+  {
+    "id": 198,
+    "text": "Size of venue was terrible! Clearly oversold tickets for the space available, resulting in standing room only for popular sessions and uncomfortable crowding throughout. 📏",
+    "span": "Size",
+    "label": "negative",
+    "ordinal": 0
+  },
+  {
+    "id": 199,
+    "text": "Volunteer coordination was outstanding! Well-trained, easily identifiable helpers positioned strategically throughout the venue who provided consistent, accurate information. 🌟",
+    "span": "Volunteers",
+    "label": "positive",
+    "ordinal": 0
+  }
+]
+
