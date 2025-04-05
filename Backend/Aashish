@@ -1,0 +1,52 @@
+import axios from 'axios';
+import {BEARER_TOKEN,TWEET_ID} from './config.js';
+
+
+const bearerToken = BEARER_TOKEN;
+const tweetId = TWEET_ID;
+
+const url = `https://api.twitter.com/2/tweets/${tweetId}?tweet.fields=public_metrics,author_id,created_at`;
+
+const headers = {
+  Authorization: `Bearer ${bearerToken}`
+};
+
+async function fetchTweet() {
+  try {
+    const response = await axios.get(url, { headers });
+    console.log(response.data);
+  } catch (error) {
+    console.error('Error fetching tweet:', error.response ? error.response.data : error.message);
+  }
+}
+
+
+
+const url2 = 'https://api.twitter.com/2/tweets/search/recent';
+
+const params = {
+  query: `conversation_id:${TWEET_ID} -from:twitterdev`, 
+  'tweet.fields': 'author_id,created_at,conversation_id,in_reply_to_user_id,public_metrics',
+  max_results: 100,
+};
+
+async function fetchComments() {
+  try {
+    const response = await axios.get(url2, { headers, params });
+    const data = response.data;
+    const texts = data.map(item => item.text);
+
+    console.log(texts);
+  } catch (error) {
+    console.error('Error fetching comments:', error.response?.data || error.message);
+  }
+}
+
+async function run() {
+  await fetchTweet();
+  await new Promise(resolve => setTimeout(resolve, 2000));
+  await fetchComments();
+}
+
+run();
+
