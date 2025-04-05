@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "636069121203",
+    "firebase_url": "https://sentinium-a3112-default-rtdb.firebaseio.com",
+    "project_id": "sentinium-a3112",
+    "storage_bucket": "sentinium-a3112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636069121203:android:33310325dbbd025172f4c6",
+        "android_client_info": {
+          "package_name": "com.example.auraalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UzeImW2k7bkpn0wHGbzyAJdLg1pCVyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636069121203:android:812e5fe0da73782372f4c6",
+        "android_client_info": {
+          "package_name": "com.example.sentinium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UzeImW2k7bkpn0wHGbzyAJdLg1pCVyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
